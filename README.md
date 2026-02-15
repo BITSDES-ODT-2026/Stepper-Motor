@@ -1,2 +1,2 @@
 # Stepper-Motor
-Repo about students learning to interface and code for running a Stepper Motor
+Repo for students learning to interface and code for rotating a Stepper Motor
